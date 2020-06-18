@@ -31,7 +31,7 @@ These items I am currently exploring with the goal to understand the impact.
 
 ### Hold
 
-These items I would process with caution. I don't currently track those.
+These items I would proceed with caution. I don't currently track those.
 
 ## Quadrants
 
