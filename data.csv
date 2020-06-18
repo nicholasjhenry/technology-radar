@@ -1,2 +1,5 @@
 name,ring,quadrant,isNew,description
 Example 1,Adopt,Techniques,TRUE,"<p>Example</p>"
+Example 2,Adopt,Tools,TRUE,"<p>Example</p>"
+Example 3,Adopt,Platforms,TRUE,"<p>Example</p>"
+Example 4,Adopt,Languages and Frameworks,TRUE,"<p>Example</p>"
