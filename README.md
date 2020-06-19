@@ -46,6 +46,7 @@ These items I would proceed with caution. I don't currently track those.
 - [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
 - [Specification by Example](https://github.com/civilcode/playbook/blob/master/education/trails/specification-by-example.md)
 - [Story Mapping](https://www.jpattonassociates.com/user-story-mapping/)
+- [Twelve Factor App](https://12factor.net)
 
 ### Tools
 
