@@ -21,7 +21,7 @@ _None currently._
 
 ### Assess
 
-These items I am currently exploring with the goal to understand the impact.
+These items I am currently exploring with the goal to understand the impact on client projects.
 
 - [Kubernetes](https://kubernetes.io) (K8s): an open-source system for automating deployment, scaling, and management of containerized applications.
 - [Graphana](https://grafana.com): allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture.
