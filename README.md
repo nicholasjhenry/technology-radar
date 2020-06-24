@@ -51,6 +51,7 @@ Adopted quadrants are listed below under each heading. Other rings are managed a
   - [Dialyzer](https://hexdocs.pm/dialyzex/readme.html)
   - [Releases](https://hexdocs.pm/mix/Mix.Tasks.Release.html)
 - [GraphQL](https://graphql.org)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [Phoenix](https://www.phoenixframework.org)
   - [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
 - [PostgreSQL](https://www.postgresql.org)
