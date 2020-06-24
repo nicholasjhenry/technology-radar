@@ -30,6 +30,7 @@ Adopted quadrants are listed below under each heading. Other rings are managed a
 
 - [Docker](https://www.docker.com)
 - [Git](https://git-scm.com)
+- [GitHub Super Linter](https://github.com/github/super-linter)
 - [Visual Studio Code](https://code.visualstudio.com)
 
 ## Platforms
