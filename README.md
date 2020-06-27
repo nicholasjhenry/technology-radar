@@ -47,6 +47,7 @@ Adopted quadrants are listed below under each heading. Other rings are managed a
 
 ## Languages and Frameworks
 
+- [Ecto](https://hexdocs.pm/ecto/Ecto.html)
 - [Elixir](https://elixir-lang.org)
   - [Dialyzer](https://hexdocs.pm/dialyzex/readme.html)
   - [Releases](https://hexdocs.pm/mix/Mix.Tasks.Release.html)
